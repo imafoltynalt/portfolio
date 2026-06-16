@@ -1,4 +1,4 @@
-**Arranged in <ins>Highest to Lowest Member Count</ins>**
+**Arranged from <ins>Highest to Lowest Member Count</ins>**
 
 ---
 
