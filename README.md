@@ -9,7 +9,7 @@ Welcome to my portfolio where I keep track of which servers I helped! This inclu
 - You can contact me via [My Contact Methods](https://github.com/imafoltynalt/aboutme#how-do-you-contact-me)
 
 # 👀 Where are the servers?
-- [Servers that I own]( link )
+- [Servers that I own](https://github.com/imafoltynalt/portfolio/blob/main/owned.md)
 - [Servers that I am `Co-Owner` or `Developer` in]( link )
 - [Servers that I am staff in]( link )
 - [Servers which I helped to build/revamped]( link )
