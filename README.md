@@ -10,7 +10,7 @@ Welcome to my portfolio where I keep track of which servers I helped! This inclu
 
 # 👀 Where are the servers?
 - [Servers that I own](https://github.com/imafoltynalt/portfolio/blob/main/owned.md)
-- **COMING SOON!** [Servers that I am `Co-Owner` or `Developer` in]( link )[^1]
+- [Servers that I am `Co-Owner` or `Developer` in](https://github.com/imafoltynalt/portfolio/blob/main/co-owned.md)
 - **COMING SOON!** [Servers that I am staff in]( link )[^1]
 - **COMING SOON!** [Servers which I helped to build/revamped]( link )[^1]
 
