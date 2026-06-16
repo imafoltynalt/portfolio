@@ -7,6 +7,7 @@ Welcome to my portfolio where I keep track of which servers I helped! This inclu
 - My **free building/revamping service** is currently **NOT** open, instead, it is offer-based. This means I will have to offer this service.
     But of course there is a paid version.
 - You can contact me via [My Contact Methods](https://github.com/imafoltynalt/aboutme#how-do-you-contact-me)
+- You can also DM[^2] me to purchase my [Services | 🟢 OPEN](https://github.com/imafoltynalt/portfolio/blob/main/my%20services.md)
 
 # 👀 Where are the servers?
 - [Servers that I own](https://github.com/imafoltynalt/portfolio/blob/main/owned.md)
@@ -15,3 +16,4 @@ Welcome to my portfolio where I keep track of which servers I helped! This inclu
 - **COMING SOON!** [Servers which I helped to build/revamped]( link )[^1]
 
 [^1]: These will get you no where since there is no link attached!
+[^2]: Please only DM me via [Discord](https://github.com/imafoltynalt/aboutme#how-do-you-contact-me)!
